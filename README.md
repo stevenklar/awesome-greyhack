@@ -47,3 +47,6 @@ I've added the following resource to the list:
 ## Modding
 
 - [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool that modifies assemblies to make them public, facilitating easier access for modding purposes.
+- [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - A cross-platform open-source .NET assembly browser and decompiler, facilitating the inspection and analysis of .NET assemblies.
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - A Windows-based debugger and .NET assembly editor, enabling users to debug, decompile, and edit .NET assemblies without requiring source code access.
+- [BepInEx/HarmonyX](https://github.com/BepInEx/HarmonyX) - A fork of Harmony 2, built on MonoMod.RuntimeDetour, specializing in support for games and game modding frameworks, particularly within Unity environments.
