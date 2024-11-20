@@ -2,8 +2,6 @@
 	<img width="500" height="350" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" alt="Awesome">
 	<br>
 	<br>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<sup>Special thanks to ayecue:</sup>
@@ -19,9 +17,6 @@
 	<br>
 	<br>
 </div>
-<br>
-<br>
-<br>
 
 Here's an enhanced list of resources for Grey Hack, complete with descriptions:
 
