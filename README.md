@@ -42,6 +42,8 @@ Here's an enhanced list of resources for Grey Hack, complete with descriptions:
 ## Standalone
 
 - [ayecue/tedit](https://github.com/ayecue/tedit) - An in-game Vim-like text editor for Grey Hack, providing a familiar editing experience within the game environment.
+I've added the following resource to the list:
+- [Svarii/GreyScript](https://github.com/Svarii/GreyScript) - A collection of GreyScript extensions, including methods for string manipulation (e.g., `.color`, `.bold`, `.italic`) and numerical operations (e.g., `.plus`, `.minus`, `.random_from`), designed to enhance scripting capabilities in Grey Hack.
 
 ## Utils
 
