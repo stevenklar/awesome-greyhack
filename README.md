@@ -43,6 +43,7 @@ I've added the following resource to the list:
 ## Utils
 
 - [Nameless9000/nCrypt](https://github.com/Nameless9000/nCrypt) - A hashing helper module for Grey Hack, assisting users with password security implementations without requiring deep cryptographic knowledge.
+- [Image Transformer](https://github.com/ayecue/gh-image-transformer) - Generate image for the terminal rich text format.
 
 ## Modding
 
